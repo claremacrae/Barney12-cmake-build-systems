@@ -4,5 +4,5 @@ add_executable (utilitiesTest
 	)
 
 target_link_libraries (utilitiesTest
-	PRIVATE utilitiesLib
+	PRIVATE utilities::utilitiesLib
 )
